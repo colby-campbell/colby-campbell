@@ -1,5 +1,7 @@
-## sup
-#### Computer Science @ University of Calgary
+# boo!
+
+### Computer Science @ University of Calgary
+
 i like knowing how things work, and I like things built well enough to depend on.
 
 ---
