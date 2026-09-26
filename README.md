@@ -2,7 +2,7 @@
 
 ### Computer Science @ University of Calgary
 
-i like knowing how things work, and I like things built well enough to depend on.
+and my first name is a type of cheese, don't i just crack you up?
 
 ---
 
