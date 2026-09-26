@@ -1,4 +1,27 @@
-## Hi there 👋
+
+#### Computer Science
+
+---
+
+### Tech Stack & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,bash,html,css,haskell" />
+</p>
+
+**Frameworks & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,mysql,postgres" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
 
 <!--
 **colby-campbell/colby-campbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
