@@ -1,4 +1,4 @@
-# boo!
+# get it? bc my last name is a brand of soup?
 
 ### Computer Science @ University of Calgary
 
