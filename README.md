@@ -17,7 +17,7 @@ and my first name is a type of cheese, don't i just crack you up?
 **Frameworks & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,mysql" />
 </p>
 
 **Tools & Environment**
